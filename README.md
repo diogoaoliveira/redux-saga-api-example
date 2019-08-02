@@ -1,4 +1,4 @@
-#Example using Redux Saga
+# Example using Redux Saga
 
 Simple and objective example of how to fetch data with Redux Saga
 
